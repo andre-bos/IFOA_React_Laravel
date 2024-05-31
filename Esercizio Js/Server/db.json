@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "qomuda@example.com",
+      "password": "$2a$10$Hj133Nvk2rtFMEVVsDdjC.cBTjzz7/xFeMrsIgsvn9bSca9odt24O",
+      "firstname": "Sigourney",
+      "lastname": "Ryan",
+      "city": "Colorado Springs",
+      "id": 1
+    },
+    {
+      "email": "ditol@example.com",
+      "password": "$2a$10$qcy4YEzvLQNgY65jpG8CpOLbByvmkkFY3PECYWx.Eb9nAxAz3nzku",
+      "firstname": "Leroy",
+      "lastname": "Lindsay",
+      "city": "Portland",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "category": "Smartphone",
+      "price": "750",
+      "quantity": "5",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-graphite-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072989055"
+    },
+    {
+      "brand": "Samsung",
+      "model": "S23",
+      "category": "Smartphone",
+      "price": "623",
+      "quantity": "2",
+      "image": "https://images.samsung.com/it/smartphones/galaxy-s23/images/galaxy-s23-highlights-exclusive-kv.jpg",
+      "id": 2
+    }
+  ]
+}
